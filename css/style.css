@@ -1,0 +1,26 @@
+li {
+  background-color: red;
+  transition: 0.7s;
+}
+li:hover {
+  background-color: blue;
+  transition: 0.7s;
+}
+.chinese-banner img {
+  width: 100%;
+}
+
+h1 {
+  background-color: darkslategrey;
+}
+
+.card-group .card img:hover {
+  transform: scale(0.5);
+  transition: 0.5s;
+}
+
+.yasuopicture{
+  display: flex;
+  flex-direction: column;
+}
+/*# sourceMappingURL=style.css.map */

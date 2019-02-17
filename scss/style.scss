@@ -1,0 +1,51 @@
+.nav-pills{
+  }
+  li{
+  background-color: darkgrey;
+    transition: 0.7s;
+    &:hover{
+      background-color: blue;
+      transition: 0.7s;
+    }
+    a {
+      &:hover {
+        color: deeppink;
+      }
+    }
+
+.chinese-banner{
+  img{
+    width: 100%;
+  }
+}
+
+.yasuopicture{
+img{
+  width: 100%;
+
+
+}
+}
+  }
+h1{
+  background-color: grey;
+}
+
+.card-group{
+
+   .card{
+
+     img{
+       &:hover{
+         transform: scale(0.5);
+         transition: 0.5s;
+       }
+     }
+     .card-body{
+       h5{
+
+       }
+
+     }
+   }
+ }
